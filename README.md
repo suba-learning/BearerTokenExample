@@ -1,5 +1,4 @@
-=Sure! Here's your `README.md` file for **BearerTokenExample** with proper formatting, code blocks, and structure:
-
+ **BearerTokenExample**
 ---
 
 ```markdown
@@ -106,7 +105,3 @@ if response.status_code == 404:
 
 This project is for educational purposes only and is not affiliated with Stripe.
 ```
-
----
-
-Let me know if you'd like to add sections like environment variables, error handling tips, or how to use `.env` files for storing secrets!
